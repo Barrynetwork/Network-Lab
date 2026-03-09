@@ -259,7 +259,7 @@ option 150 ip 10.10.130.1
 ## DIAL PEER 
 ```powershell
   dial-peer voice 1 voip
-  destination-pattern 10..
+  destination-pattern 10...
   session target ipv4:10.10.30.1
 ```
 
